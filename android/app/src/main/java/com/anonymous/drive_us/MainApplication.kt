@@ -1,4 +1,4 @@
-package com.drive_us
+package com.anonymous.drive_us
 
 import android.app.Application
 import com.facebook.react.PackageList

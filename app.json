@@ -1,4 +1,7 @@
 {
   "name": "drive_us",
-  "displayName": "drive_us"
+  "displayName": "drive_us",
+  "android": {
+    "package": "com.anonymous.drive_us"
+  }
 }

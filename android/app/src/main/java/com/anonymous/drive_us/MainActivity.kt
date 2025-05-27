@@ -1,4 +1,4 @@
-package com.drive_us
+package com.anonymous.drive_us
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
